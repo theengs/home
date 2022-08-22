@@ -44,6 +44,10 @@ Alternatively Theengs can be used on computers and servers as a [python BLEtoMQT
   <img src="./img/Theengs-gateway-raspberry-pi.jpg">
 </p>
 
+::: warning Note
+All product and company names are trademarks or registered trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+:::
+
 ::: slot footer
 [GPLv3 Licensed](https://github.com/theengs/home/blob/main/LICENSE) | Copyright © 2022-present Theengs
 :::
