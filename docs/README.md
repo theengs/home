@@ -23,7 +23,7 @@ features:
 **Theengs** is available with the hardware below, they can work independently or together, following your requirements.
 
 ## On a smartphone or tablet
-The [Mobile/Tablet Android application](https://app.theengs.io) enables to read the sensors data directly.
+The [Mobile/Tablet Android and iOS/iPadOS application](https://app.theengs.io) enables to read the sensors data directly.
 
 ![Theengs app](./img/Theengs-app-home-reduced-1280.png)
 
