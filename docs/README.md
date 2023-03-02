@@ -22,6 +22,15 @@ features:
 
 **Theengs** is available with the hardware below, they can work independently or together, following your requirements.
 
+## On a smartplug
+The [Theengs plug](https://shop.theengs.io/products/theengs-plug-smart-plug-ble-gateway-and-energy-consumption) is a versatile device that can serve as a BLE to MQTT gateway for over [70 sensors](https://decoder.theengs.io/devices/devices_by_brand.html), as well as a smart plug with power consumption measurement and presence detection features.
+
+<p align="center">
+  <a href="https://shop.theengs.io/products/theengs-plug-smart-plug-ble-gateway-and-energy-consumption">
+    <img src="./img/Theengs-Plug-ble-gateway.png">
+  </a>
+</p>
+
 ## On a smartphone or tablet
 The [Mobile/Tablet Android and iOS/iPadOS application](https://app.theengs.io) enables to read the sensors data directly.
 
@@ -43,6 +52,15 @@ Alternatively Theengs can be used on computers and servers as a [python BLEtoMQT
 <p align="center">
   <img src="./img/Theengs-gateway-raspberry-pi.jpg">
 </p>
+
+## Integrations
+Theengs products can be integrated with smart home and IoT controllers supporting MQTT:
+* [OpenHAB](https://www.openhab.org)
+* [Home Assistant](https://www.home-assistant.io)
+* [Domoticz](https://www.domoticz.com)
+* [Jeedom](https://www.jeedom.com)
+* [Node Red](https://nodered.org)
+* [FHEM](https://fhem.de)
 
 ::: warning Note
 All product and company names are trademarks or registered trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
