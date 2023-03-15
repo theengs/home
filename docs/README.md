@@ -22,6 +22,15 @@ features:
 
 **Theengs** is available with the hardware below, they can work independently or together, following your requirements.
 
+## Features
+|Product| Platform |Retrieve and decode broadcasts |MQTT integration| Home Assistant convention discovery| Presence detection | Display| Can connect with raw data|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Theengs Plug](https://docs.openmqttgateway.com)|ESP32|☑️|☑️|☑️|☑️|-|☑️|
+|[Theengs App](https://app.theengs.io)|iOS/Android|☑️|☑️|☑️|-|☑️|-|
+|[OpenMQTTGateway](https://shop.theengs.io/products/theengs-plug-smart-plug-ble-gateway-and-energy-consumption)|ESP32|☑️|☑️|☑️|☑️|-|☑️|
+|[Theengs Gateway](https://gateway.theengs.io)|PC/Mac/Servers|☑️|☑️|☑️|-|-|-|
+
+
 ## On a smartplug
 The [Theengs plug](https://shop.theengs.io/products/theengs-plug-smart-plug-ble-gateway-and-energy-consumption) is a versatile device that can serve as a BLE to MQTT gateway for over [70 sensors](https://decoder.theengs.io/devices/devices_by_brand.html), as well as a smart plug with power consumption measurement and presence detection features.
 

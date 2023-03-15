@@ -26,6 +26,11 @@ module.exports = {
     nav: [
       { text: 'Shop🆕', link: 'https://shop.theengs.io/'},
       { text: 'Home', link: 'https://www.theengs.io', target:'_self', rel:''},
+      {text: 'Use cases',
+      items: [
+        { text: 'Smart Home', link: '/usecases/smarthome.md' },
+        { text: 'Research', link: '/usecases/research.md' }
+      ]},
       { text: 'App', link: 'https://app.theengs.io', target:'_self', rel:''},
       { text: 'Gateway', link: 'https://gateway.theengs.io', target:'_self', rel:''},
       { text: 'Decoder', link: 'https://decoder.theengs.io', target:'_self', rel:''}
