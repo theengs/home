@@ -28,7 +28,7 @@ features:
 |[Theengs Plug](https://docs.openmqttgateway.com)|ESP32|☑️|☑️|☑️|☑️|-|☑️|
 |[Theengs App](https://app.theengs.io)|iOS/Android|☑️|☑️|☑️|-|☑️|-|
 |[OpenMQTTGateway](https://shop.theengs.io/products/theengs-plug-smart-plug-ble-gateway-and-energy-consumption)|ESP32|☑️|☑️|☑️|☑️|-|☑️|
-|[Theengs Gateway](https://gateway.theengs.io)|PC/Mac/Servers|☑️|☑️|☑️|-|-|-|
+|[Theengs Gateway](https://gateway.theengs.io)|PC/Mac/Servers|☑️|☑️|☑️|☑️|-|-|
 
 
 ## On a smartplug
