@@ -32,6 +32,7 @@ module.exports = {
         { text: 'Research', link: '/usecases/research.md' }
       ]},
       { text: 'App', link: 'https://app.theengs.io', target:'_self', rel:''},
+      { text: 'API', link: '/api/api.md', target:'_self', rel:''},
       { text: 'Gateway', link: 'https://gateway.theengs.io', target:'_self', rel:''},
       { text: 'Decoder', link: 'https://decoder.theengs.io', target:'_self', rel:''}
     ],
