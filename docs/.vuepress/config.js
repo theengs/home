@@ -24,7 +24,7 @@ module.exports = {
     lastUpdated: 'Last Updated',
     editLinks: true,
     nav: [
-      { text: 'Shop🆕', link: 'https://shop.theengs.io/'},
+      { text: 'Shop', link: 'https://shop.theengs.io/'},
       { text: 'Home', link: 'https://www.theengs.io', target:'_self', rel:''},
       {text: 'Use cases',
       items: [
@@ -33,7 +33,6 @@ module.exports = {
       ]},
       { text: 'Compatible', link: 'https://decoder.theengs.io/devices/devices.html', target:'_self', rel:''},
       { text: 'App', link: 'https://app.theengs.io', target:'_self', rel:''},
-      { text: 'API', link: '/api/api.md', target:'_self', rel:''},
       { text: 'Gateway', link: 'https://gateway.theengs.io', target:'_self', rel:''},
       { text: 'Decoder', link: 'https://decoder.theengs.io', target:'_self', rel:''},
       { text: 'Web Parser', link: 'https://parser.theengs.io', target:'_self', rel:''}
