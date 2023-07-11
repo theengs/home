@@ -3,7 +3,7 @@ Theengs ecosystem can be used for analytics, research, or study use cases. Its f
 Because Theengs uses MQTT and has access to a wide range of connectors, it is easy to integrate with scientific and analytic technology stacks.
 
 :::tip What you need
-A [BLE sensor](https://decoder.theengs.io/devices/devices_by_brand.html) depending on your use cases + [OpenMQTTGateway](https://docs.openmqttgateway.com) OR [Theengs Gateway](https://gateway.theengs.io), an MQTT broker, [Node Red](https://nodered.org/), a database like [InfluxDB](https://www.influxdata.com/) , and an observability platform [Grafana](https://grafana.com/).
+A [BLE sensor](https://decoder.theengs.io/devices/devices.html) depending on your use cases + [OpenMQTTGateway](https://docs.openmqttgateway.com) OR [Theengs Gateway](https://gateway.theengs.io), an MQTT broker, [Node Red](https://nodered.org/), a database like [InfluxDB](https://www.influxdata.com/) , and an observability platform [Grafana](https://grafana.com/).
 Alternatively, many software offer [MQTT connectors](https://github.com/hobbyquaker/awesome-mqtt). 
 
 If you want to access real-time data directly from the sensors without a controller and broker, you can also use the [Theengs App](https://app.theengs.io)
