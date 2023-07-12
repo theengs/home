@@ -3,7 +3,7 @@ Theengs is a powerful technology platform that allows seamless integration betwe
 Whether you're a homeowner or a tech enthusiast, this page is the perfect resource to explore the exciting world of Theengs and its applications for smart homes.
 
 :::tip What you need
-A [BLE sensor](https://decoder.theengs.io/devices/devices_by_brand.html) depending on your use cases + [OpenMQTTGateway](https://docs.openmqttgateway.com) OR [Theengs Gateway](https://gateway.theengs.io), an MQTT broker, and a Controller.
+A [BLE sensor](https://decoder.theengs.io/devices/devices.html) depending on your use cases + [OpenMQTTGateway](https://docs.openmqttgateway.com) OR [Theengs Gateway](https://gateway.theengs.io), an MQTT broker, and a Controller.
 
 If you want to access real-time data from the sensors without a controller and a broker, you can also use the [Theengs App](https://app.theengs.io)
 :::

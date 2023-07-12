@@ -32,7 +32,7 @@ features:
 
 
 ## On a smartplug
-The [Theengs plug](https://shop.theengs.io/products/theengs-plug-smart-plug-ble-gateway-and-energy-consumption) is a versatile device that can serve as a BLE to MQTT gateway for over [70 sensors](https://decoder.theengs.io/devices/devices_by_brand.html), as well as a smart plug with power consumption measurement and presence detection features.
+The [Theengs plug](https://shop.theengs.io/products/theengs-plug-smart-plug-ble-gateway-and-energy-consumption) is a versatile device that can serve as a BLE to MQTT gateway for over [80 sensors](https://decoder.theengs.io/devices/devices.html), as well as a smart plug with power consumption measurement and presence detection features.
 
 <p align="center">
   <a href="https://shop.theengs.io/products/theengs-plug-smart-plug-ble-gateway-and-energy-consumption">
