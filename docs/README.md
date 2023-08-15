@@ -20,6 +20,8 @@ features:
 
 ![Theengs ecosystem](./img/Theengs-ecosystem.jpg)
 
+# Theengs BLE sensors gateways and applications
+
 **Theengs** is available with the hardware below, they can work independently or together, following your requirements.
 
 ## Features
@@ -76,5 +78,5 @@ All product and company names are trademarks or registered trademarks of their r
 :::
 
 ::: slot footer
-[GPLv3 Licensed](https://github.com/theengs/home/blob/main/LICENSE) | Copyright © 2022-present Theengs
+[GPLv3 Licensed](https://github.com/theengs/home/blob/main/LICENSE) | Copyright © 2023-present Theengs
 :::
