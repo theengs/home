@@ -1,6 +1,7 @@
 ---
 home: true
 heroText: null
+title: Theengs BLE sensors applications and MQTT gateways
 heroImage: logo-Theengs.png
 tagline: Manufacturer agnostic BLE sensors applications and gateways
 features:
@@ -20,9 +21,9 @@ features:
 
 ![Theengs ecosystem](./img/Theengs-ecosystem.jpg)
 
-# Theengs BLE sensors gateways and applications
+# Applications and MQTT gateways
 
-**Theengs** is available with the hardware below, they can work independently or together, following your requirements.
+**Theengs** is available with the hardware below. They can work independently or together, following your requirements.
 
 ## Features
 |Product| Platform |Retrieve and decode broadcasts |MQTT integration| Home Assistant convention discovery| Presence detection | Display| Can connect with raw data|
