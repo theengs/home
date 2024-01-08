@@ -1,5 +1,3 @@
-# Theengs IoT Use Cases
-
 ## Environmental Monitoring
 - Monitor temperature, humidity, air quality.
 - Ideal for smart buildings, urban planning.
