@@ -29,9 +29,9 @@ module.exports = {
       {
         text: 'Use cases',
         items: [
-          { text: 'Smart Home', link: '/usecases/smarthome.md' },
-          { text: 'IoT', link: '/usecases/iot.md' },
-          { text: 'Research', link: '/usecases/research.md' }
+          { text: 'Smart Home', link: 'https://www.theengs.io/usecases/smarthome.html', target: '_self', rel: '' },
+          { text: 'IoT', link: 'https://www.theengs.io/usecases/iot.html', target: '_self', rel: '' },
+          { text: 'Research', link: 'https://www.theengs.io/usecases/research.html', target: '_self', rel: ''  }
         ]
       },
       { 
