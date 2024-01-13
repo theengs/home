@@ -8,7 +8,7 @@ A [BLE sensor](https://decoder.theengs.io/devices/devices.html) depending on you
 If you want to access real-time data from the sensors without a controller and a broker, you can also use the [Theengs App](https://app.theengs.io)
 :::
 
-### Monitor your favorite plan with a Mi Flora BLE sensor to know when it needs water
+### Monitor your favorite plant with a Mi Flora BLE sensor to know when it needs water
 
 <p align="center">
   <img src="../img/OpenMQTTgateway_OpenHAB_Control.png">
