@@ -1,12 +1,11 @@
 ---
 home: true
-heroText: null
-title: Theengs BLE sensors applications and MQTT gateways
+heroText: We Unite Sensors in One Open-Source Interface
 heroImage: logo-Theengs.png
-tagline: Manufacturer agnostic BLE sensors applications and gateways
+tagline: null
 features:
 - title: Interoperability
-  details: From Home Assistant to ThingsBoard, Theengs is compatible with most of the IOT platforms and SmarHome controllers.
+  details:  Home Assistant to ThingsBoard, Theengs is compatible with most of the IOT platforms and SmarHome controllers.
 - title: Expandability
   details: Theengs can read broadcasted data from many sensors, and it is easy to add one, thanks to the use of a JSON based decoder.
 - title: Open source
@@ -16,7 +15,7 @@ features:
 - title: Powerfull decoder
   details: Theengs applications use one library to decode the sensors. Adding a device to the library makes it available for the whole ecosystem.
 - title: Compact
-  details: Theengs heart is developped in C++ and weight less than 1MB enabling to embed it into a wide range of boards from microcontrollers to computers.
+  details: Theengs core is developped in C++ and weight less than 1MB enabling to embed it into a wide range of boards from microcontrollers to computers.
 ---
 
 ![Theengs ecosystem](./img/Theengs-ecosystem.jpg)
@@ -88,5 +87,5 @@ All product and company names are trademarks or registered trademarks of their r
 :::
 
 ::: slot footer
-[GPLv3 Licensed](https://github.com/theengs/home/blob/main/LICENSE) | Copyright © 2023-present Theengs
+[GPLv3 Licensed](https://github.com/theengs/home/blob/main/LICENSE) | Copyright © 2024 Theengs - A Thing Story LLC
 :::
