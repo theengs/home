@@ -38,7 +38,7 @@ The [Theengs bridge](https://shop.theengs.io/products/theengs-bridge-esp32-ble-m
 
 <p align="center">
   <a href="https://shop.theengs.io/products/theengs-bridge-esp32-ble-mqtt-gateway-with-ethernet-and-external-antenna">
-    <img src="./img/Theengs-Bridge-ble-gateway.png">
+    <img src="./img/Theengs-Bridge-ble-gateway.png" alt="Theengs Bridge ESP32 BLE MQTT Gateway">
   </a>
 </p>
 
@@ -47,7 +47,7 @@ The [Theengs plug](https://shop.theengs.io/products/theengs-plug-smart-plug-ble-
 
 <p align="center">
   <a href="https://shop.theengs.io/products/theengs-plug-smart-plug-ble-gateway-and-energy-consumption">
-    <img src="./img/Theengs-Plug-ble-gateway.png">
+    <img src="./img/Theengs-Plug-ble-gateway.png" alt="Theengs Smart Plug ESP32 BLE MQTT Gateway">
   </a>
 </p>
 
@@ -63,14 +63,14 @@ Theengs is used by [OpenMQTTGateway](https://docs.openmqttgateway.com), it can b
 
 
 <p align="center">
-  <img src="./img/Theengs-openmqttgateway.jpg">
+  <img src="./img/Theengs-openmqttgateway.jpg"  alt="ESP32 BLE MQTT Gateway">
 </p>
 
 ## On a computer
 Alternatively Theengs can be used on computers and servers as a [python BLEtoMQTT gateway](https://gateway.theengs.io) for Raspberry Pi, Unix, or Windows,
 
 <p align="center">
-  <img src="./img/Theengs-gateway-raspberry-pi.jpg">
+  <img src="./img/Theengs-gateway-raspberry-pi.jpg" alt="Computer server BLE MQTT Gateway">
 </p>
 
 ## Integrations
