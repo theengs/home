@@ -27,6 +27,7 @@ module.exports = {
     editLinks: true,
     nav: [
       { text: 'Home', link: 'https://www.theengs.io', target: '_self', rel: '' },
+      { text: 'Blog', link: 'https://shop.theengs.io/blogs/news', target: '_self', rel: '' },
       {
         text: 'Use cases',
         items: [
