@@ -64,8 +64,7 @@ module.exports = {
       },
       { text: 'Compatible devices', link: 'https://decoder.theengs.io/devices/devices.html', target: '_self', rel: '' },
       { text: 'Community', link: 'https://community.openmqttgateway.com', target: '_self', rel: '' },
-      { text: 'Shop', link: 'https://shop.theengs.io/', target: '_self', rel: '' },
-      { text: 'Sponsor 🤍', link: 'https://github.com/sponsors/theengs', target: '_self', rel: '' }
+      { text: 'Store', link: 'https://shop.theengs.io/', target: '_self', rel: '' }
     ],
   },
   plugins: [
